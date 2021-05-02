@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nitesh Yadav
--  I’m interested in programming
 - 🌱 I’m currently pursuing BE in Computer Engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 Email: nteshxx@gmail.com
