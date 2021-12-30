@@ -1,6 +1,6 @@
+### Nitesh Yadav                       
+![GitHub followers](https://img.shields.io/github/followers/nteshxx?style=for-the-badge)
 - 👋 Hi, I’m Nitesh Yadav
-- 🌱 I’m currently pursuing BE in Computer Engineering
-- 💞️ I’m looking to collaborate on projects
 - 📫 Email: nteshxx@gmail.com
 - 📫 LinkedIn: https://www.linkedin.com/in/nteshxx/
 
